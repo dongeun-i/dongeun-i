@@ -2,6 +2,12 @@
 
 <!--
 **dongeun-i/dongeun-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// react
+<img src="https://img.shields.io/badge/react-white&?color=555&logoColor=61DAFB&logo=react&logoWith=20" style="width:80px"/>
+// redux
+<img src="https://img.shields.io/badge/redux-white&?color=764ABC&logoColor=fff&logo=redux&logoWith=20" style="width:80px"/>
+
+
 
 Here are some ideas to get you started:
 

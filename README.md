@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+
 <!--
 **dongeun-i/dongeun-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 // react
@@ -8,6 +9,9 @@
 // redux
 <img src="https://img.shields.io/badge/redux-white&?color=764ABC&logoColor=fff&logo=redux&logoWith=20" style="width:80px"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 Here are some ideas to get you started:

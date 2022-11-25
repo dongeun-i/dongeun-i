@@ -1,15 +1,32 @@
 ### Hi there 👋
 
+### Skills
+<div style="background:red">
+  <img src="https://img.shields.io/badge/React-white&?color=333&logoColor=61DAFB&logo=React&logoWith=20" style="height:26px"/>
+  <img src="https://img.shields.io/badge/Redux-white&?color=333&logoColor=764ABC&logo=Redux&logoWith=20" style="height:26px"/>
+  <img src="https://img.shields.io/badge/JavaScript-white&?color=333&logoColor=F7DF1E&logo=JavaScript&logoWith=20" style="height:26px"/>
+  <img src="https://img.shields.io/badge/HTML5-white&?color=333&logoColor=E34F26&logo=HTML5&logoWith=20" style="height:26px"/>
+  <img src="https://img.shields.io/badge/CSS-white&?color=333&logoColor=1572B6&logo=CSS3&logoWith=20" style="height:26px"/>
+    <img src="https://img.shields.io/badge/Node.js-white&?color=333&logoColor=339933&logo=Node.js&logoWith=20" style="height:26px"/>
+</div>
+
+---
+
+
+
+
+
+
 
 
 <!--
 **dongeun-i/dongeun-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 // react
-<img src="https://img.shields.io/badge/react-white&?color=555&logoColor=61DAFB&logo=react&logoWith=20" style="width:80px"/>
 // redux
-<img src="https://img.shields.io/badge/redux-white&?color=764ABC&logoColor=fff&logo=redux&logoWith=20" style="width:80px"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
+
+## MY Portfolio Link
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
@@ -24,3 +41,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

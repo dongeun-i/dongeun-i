@@ -9,8 +9,13 @@
   <img src="https://img.shields.io/badge/CSS-white&?color=333&logoColor=1572B6&logo=CSS3&logoWith=20" style="height:26px"/>
     <img src="https://img.shields.io/badge/Node.js-white&?color=333&logoColor=339933&logo=Node.js&logoWith=20" style="height:26px"/>
 </div>
+<br/>
+<br/>
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i&layout=compact&theme=transparent)](https://github.com/dongeun-i/github-readme-stats)
+
+
+
 
 
 
@@ -23,10 +28,8 @@
 **dongeun-i/dongeun-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 // react
 // redux
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
 
 ## MY Portfolio Link
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongeun-i)](https://github.com/dongeun-i/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 

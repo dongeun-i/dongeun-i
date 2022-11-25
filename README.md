@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i&layout=compact&theme=transparent)](https://github.com/dongeun-i/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i&layout=compact)]()
 
 
 

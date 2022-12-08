@@ -1,18 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <div style="background:red">
+    <img src="https://img.shields.io/badge/React-white&?color=333&logoColor=61DAFB&logo=React&logoWith=20" style="height:26px"/>
+    <img src="https://img.shields.io/badge/Redux-white&?color=333&logoColor=764ABC&logo=Redux&logoWith=20" style="height:26px"/>
+    <img src="https://img.shields.io/badge/JavaScript-white&?color=333&logoColor=F7DF1E&logo=JavaScript&logoWith=20" style="height:26px"/>
+    <img src="https://img.shields.io/badge/HTML5-white&?color=333&logoColor=E34F26&logo=HTML5&logoWith=20" style="height:26px"/>
+    <img src="https://img.shields.io/badge/CSS-white&?color=333&logoColor=1572B6&logo=CSS3&logoWith=20" style="height:26px"/>
+      <img src="https://img.shields.io/badge/Node.js-white&?color=333&logoColor=339933&logo=Node.js&logoWith=20" style="height:26px"/>
+  </div>
+  <br/>
 
-### Skills
-<div style="background:red">
-  <img src="https://img.shields.io/badge/React-white&?color=333&logoColor=61DAFB&logo=React&logoWith=20" style="height:26px"/>
-  <img src="https://img.shields.io/badge/Redux-white&?color=333&logoColor=764ABC&logo=Redux&logoWith=20" style="height:26px"/>
-  <img src="https://img.shields.io/badge/JavaScript-white&?color=333&logoColor=F7DF1E&logo=JavaScript&logoWith=20" style="height:26px"/>
-  <img src="https://img.shields.io/badge/HTML5-white&?color=333&logoColor=E34F26&logo=HTML5&logoWith=20" style="height:26px"/>
-  <img src="https://img.shields.io/badge/CSS-white&?color=333&logoColor=1572B6&logo=CSS3&logoWith=20" style="height:26px"/>
-    <img src="https://img.shields.io/badge/Node.js-white&?color=333&logoColor=339933&logo=Node.js&logoWith=20" style="height:26px"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i&layout=compact&card_width=500)]()
+
 </div>
-<br/>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongeun-i&layout=compact&card_width=500)]()
+
 
 
 

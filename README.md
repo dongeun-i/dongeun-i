@@ -5,7 +5,8 @@
     <img src="https://img.shields.io/badge/JavaScript-white&?color=333&logoColor=F7DF1E&logo=JavaScript&logoWith=20" style="height:26px"/>
     <img src="https://img.shields.io/badge/HTML5-white&?color=333&logoColor=E34F26&logo=HTML5&logoWith=20" style="height:26px"/>
     <img src="https://img.shields.io/badge/CSS-white&?color=333&logoColor=1572B6&logo=CSS3&logoWith=20" style="height:26px"/>
-      <img src="https://img.shields.io/badge/Node.js-white&?color=333&logoColor=339933&logo=Node.js&logoWith=20" style="height:26px"/>
+    <img src="https://img.shields.io/badge/Node.js-white&?color=333&logoColor=339933&logo=Node.js&logoWith=20" style="height:26px"/>
+    <img src="https://img.shields.io/badge/TypeScript-white&?color=333333&logoColor=3178C6&logo=Node.js&logoWith=20"style="height:26px"/>
   </div>
   <br/>
 

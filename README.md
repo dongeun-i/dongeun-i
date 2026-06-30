@@ -1,5 +1,9 @@
 <div align="center">
-  <!-- Frontend & Core -->
+  <!-- 타이핑 효과 애니메이션 -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&letterSpacing=10px&pause=1000&center=true&vCenter=true&width=435&lines=%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+  <br/>
+
+  <!-- 🛠️ Tech Stacks (Frontend) -->
   <img src="https://img.shields.io/badge/React-333333?style=flat&logo=React&logoColor=61DAFB" style="height:26px"/>
   <img src="https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript&logoColor=3178C6" style="height:26px"/>
   <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E" style="height:26px"/>
@@ -7,7 +11,7 @@
   
   <br/>
 
-  <!-- Backend & Infra -->
+  <!-- 🛠️ Tech Stacks (Backend & Infra) -->
   <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js&logoColor=339933" style="height:26px"/>
   <img src="https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=Spring-Boot&logoColor=6DB33F" style="height:26px"/>
   <img src="https://img.shields.io/badge/PHP-333333?style=flat&logo=PHP&logoColor=777BB4" style="height:26px"/>
@@ -15,13 +19,15 @@
 
   <br/>
 
-  <!-- Architecture & Methods -->
+  <!-- 🛠️ Tech Stacks (Architecture & Methods) -->
   <img src="https://img.shields.io/badge/Turborepo-333333?style=flat&logo=Turborepo&logoColor=EF4444" style="height:26px"/>
   <img src="https://img.shields.io/badge/Microservices-333333?style=flat&logo=Kubernetes&logoColor=326CE5" style="height:26px"/>
   <img src="https://img.shields.io/badge/Component_Driven-333333?style=flat&logo=Storybook&logoColor=FF4785" style="height:26px"/>
 
-  <!-- 깃허브 공식 잔디 이미지 연동 (깨질 염려 없음) -->
-  <img src="https://ghchart.rshah.org/333333/dongeun-i" alt="dongeun-i's Github Chart" />
+  <br/><br/>
+
+  <!-- 📈 GitHub Contribution Graph (다크 모드 맞춤 잔디) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongeun-i&theme=github-dark" width="100%" alt="dongeun-i's Github Chart" />
 </div>
 
 ---
@@ -38,10 +44,18 @@
 
 - **오늘의냉장고:** 개인 프로젝트 (ERD 및 UI/UX 설계)
 - **Odoo OCR Automation:** Odoo v18.0 기반 OCR 자동화 에드온 개발 (해커톤 프로토타입)
-- **WhaTap Agent Integration:** 클라우드 서버 모니터링 에이전트 구축 및 운영
+
+---
+
+## 📝 Velog
+  <!-- 너비를 가득 채우도록 width="100%" 설정 -->
+  <a href="https://velog.io/@dongeun-i" target="_blank">
+    <img src="https://velog-readme-stats.vercel.app/api?name=dongeun-i" " alt="Velog Stats" />
+  </a>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width="100%"/>
+  <!-- 하단 푸터 무늬 테마 조정 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=150&section=footer" width="100%"/>
 </div>

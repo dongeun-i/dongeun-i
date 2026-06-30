@@ -40,22 +40,30 @@
 - 🚀 **Main Stack:** React와 Node.js, TypeScript를 주로 사용하며 다양한 백엔드 환경(Spring Boot, PHP)을 경험했습니다.
 - 📈 **Interests:** 데이터 기반의 기술적 분석 및 시스템 구축에 흥미가 있습니다.
 
-## 📂 Projects
+## ⚡ Currently Focusing On
 
-- **오늘의냉장고:** 개인 프로젝트 (ERD 및 UI/UX 설계)
-- **Odoo OCR Automation:** Odoo v18.0 기반 OCR 자동화 에드온 개발 (해커톤 프로토타입)
+- **[오늘의냉장고](https://github.com/dongeun-i) (Personal Project)**
+  - 모노레포와 컴포넌트 주도 개발(CDD) 방법론을 실제 아키텍처에 녹여내는 실험 진행 중
+  - 확장성과 유지보수 효율을 고려한 구조적 데이터베이스(ERD) 설계 및 UI/UX 구체화 작업
+
+- **[aliexpress-product-scraper](https://github.com/dongeun-i/aliexpress-product-scraper)**
+  - 대량의 이커머스 상품 데이터를 안정적이고 효율적으로 수집하기 위한 스크래핑 파이프라인 구축
+  - 안티 크롤링 우회 및 데이터 정제 자동화 프로세스 최적화 연구
+
+- **[LLM-Playground](https://github.com/dongeun-i/LLM-Playgroud)**
+  - 대형 언어 모델(LLM) API를 활용한 프롬프트 엔지니어링 및 다양한 애플리케이션 프로토타이핑 실험
+  - 실무 환경에 인공지능 모델을 유연하게 결합하고 통합하기 위한 인프라 및 아키텍처 검증
 
 ---
 
 ## 📝 Velog
-  <!-- 너비를 가득 채우도록 width="100%" 설정 -->
+
   <a href="https://velog.io/@dongeun-i" target="_blank">
-    <img src="https://velog-readme-stats.vercel.app/api?name=dongeun-i" " alt="Velog Stats" />
+    <img src="https://velog-readme-stats.vercel.app/api?name=dongeun-i" alt="Velog Stats" />
   </a>
 
 ---
 
 <div align="center">
-  <!-- 하단 푸터 무늬 테마 조정 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=150&section=footer" width="100%"/>
 </div>

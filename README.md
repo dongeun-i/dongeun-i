@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 타이핑 효과 애니메이션 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&letterSpacing=10px&pause=1000&center=true&vCenter=true&width=435&lines=%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&letterSpacing=10px&pause=1000&center=true&vCenter=true&width=435&lines=%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
   <br/>
 
   <!-- 🛠️ Tech Stacks (Frontend) -->
